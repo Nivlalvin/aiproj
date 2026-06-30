@@ -1,0 +1,16 @@
+sale_id,order_date,order_id,customer_name,customer_city,product_category,product_type,product_name,quantity,unit_price_usd,discount_rate,payment_method,order_status,sales_channel,sales_rep,region,is_expedited_shipping,delivery_date
+1,2025-01-05,ORD-1001,Alvin Muchiri,Nairobi,Electronics,Laptop,Dell XPS 13,2,1200,0.1,Credit Card,Completed,Online,Sales Rep A,East Africa,True,2025-01-07
+2,2025-01-06,ORD-1002,Jane Wanjiku,Mombasa,Home Appliances,Microwave,LG NeoChef,1,250,0.05,M-Pesa,Completed,Retail,Sales Rep B,Coast,False,2025-01-08
+3,2025-01-07,ORD-1003,Peter Otieno,Kisumu,Electronics,Smartphone,Samsung S23,3,900,0.15,Bank Transfer,Pending,Online,Sales Rep C,Western,True,
+4,2025-01-08,ORD-1004,Mary Njeri,Nakuru,Furniture,Office Chair,ErgoComfort Pro,4,150,0.0,Cash,Completed,Retail,Sales Rep D,Rift Valley,False,2025-01-10
+5,2025-01-09,ORD-1005,David Kamau,Thika,Electronics,Tablet,iPad Air,1,700,0.2,Credit Card,Returned,Online,Sales Rep A,Central,True,2025-01-12
+6,2025-01-10,ORD-1006,Sarah Atieno,Eldoret,Fashion,Sneakers,Nike Air Max,2,130,0.05,M-Pesa,Completed,Online,Sales Rep E,Rift Valley,True,2025-01-13
+7,2025-01-11,ORD-1007,Brian Mwangi,Nyeri,Automotive,Car Battery,Exide 65Ah,1,180,0.0,Cash,Completed,Retail,Sales Rep F,Central,False,2025-01-11
+8,2025-01-12,ORD-1008,Lucy Chebet,Kericho,Beauty,Skin Care,Nivea Glow Set,5,25,0.1,M-Pesa,Completed,Online,Sales Rep B,Rift Valley,True,2025-01-14
+9,2025-01-13,ORD-1009,Samuel Kilonzo,Machakos,Electronics,TV,"Sony Bravia 55""",1,1100,0.05,Bank Transfer,Pending,Retail,Sales Rep C,Eastern,False,
+10,2025-01-14,ORD-1010,Grace Achieng,Homa Bay,Furniture,Dining Table,Oakwood Set,1,950,0.12,Credit Card,Completed,Online,Sales Rep D,Western,True,2025-01-17
+11,2025-01-15,ORD-1011,Kevin Ouma,Siaya,Electronics,Headphones,Sony WH-1000XM5,2,350,0.08,M-Pesa,Completed,Online,Sales Rep A,Western,True,2025-01-16
+12,2025-01-16,ORD-1012,Esther Mutiso,Kitui,Stationery,Printer Paper,A4 Reams,10,6,0.0,Cash,Completed,Retail,Sales Rep F,Eastern,False,2025-01-16
+13,2025-01-17,ORD-1013,Paul Kibet,Bomet,Agriculture,Fertilizer,DAP 50kg,20,35,0.1,Bank Transfer,Completed,Retail,Sales Rep E,Rift Valley,False,2025-01-18
+14,2025-01-18,ORD-1014,Irene Wairimu,Limuru,Electronics,Router,TP-Link AX3000,1,120,0.05,M-Pesa,Completed,Online,Sales Rep B,Central,True,2025-01-19
+15,2025-01-19,ORD-1015,Josephine Nduta,Murang'a,Health,Blood Pressure Monitor,Omron M3,1,95,0.0,Credit Card,Completed,Online,Sales Rep D,Central,True,2025-01-20
